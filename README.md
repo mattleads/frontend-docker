@@ -19,7 +19,7 @@ You can build and run this application using Docker.
 
 1.  Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/mattleads/frontend-docker.git
     cd frontend-docker
     ```
 
